@@ -24,6 +24,17 @@ Augmented reality filters have taken social media platforms by storm, enhancing 
 ## Few Projects 
 
 * Bloom Investing
-* Corpse Mask
-* Among Us
-* Velocity Flash
+  
+https://github.com/aliceayz/AR-Projects/assets/64443108/f3521632-2750-423d-abe4-298e059a46c5
+
+* Corpse Mask - 324 Million Views
+
+https://github.com/aliceayz/AR-Projects/assets/64443108/c6823dff-5d4b-4e2e-a3e5-6d463feb0b14  
+
+* Minecraft Parrots
+
+https://github.com/aliceayz/AR-Projects/assets/64443108/e5259b95-6a5c-459a-b209-abe45c9dc26b
+
+\+ many many more!
+
+Thanks for reading!
